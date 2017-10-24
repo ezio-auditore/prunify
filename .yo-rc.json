@@ -1,0 +1,16 @@
+{
+  "generator-ng-fullstack": {
+    "appName": "prunify",
+    "username": "Kaustav",
+    "userEmail": "pupunmajumder@gmail.com",
+    "stack": "server",
+    "repoHostUrl": "github.com",
+    "userNameSpace": "Kaustav",
+    "client": "",
+    "server": "node",
+    "nodeWebFrameworkServer": "express",
+    "transpilerServer": "node",
+    "secure": false,
+    "testsSeparated": true
+  }
+}
